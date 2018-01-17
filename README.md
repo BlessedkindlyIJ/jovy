@@ -1,0 +1,2 @@
+# jovy
+Bitconnect QT wallet
